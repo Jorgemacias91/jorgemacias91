@@ -3,7 +3,7 @@
 
 # 👋 Jorgemacias91 👋
 
-![Twitter](https://twitter.com/MaciasVesga) 
+[Twitter](https://twitter.com/MaciasVesga) 
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/jorge-leonardo-macias-vesga-5aa8a311b/)
 
 <!--
