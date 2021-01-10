@@ -7,6 +7,8 @@
 Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente me certifico como Ingeniero Administrador Linux e Ingeniero Desarrollador FullStack 
 </h3>
 
+?style=for-the-badge&logo=appveyor
+
 <!--
 **Jorgemacias91/jorgemacias91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
