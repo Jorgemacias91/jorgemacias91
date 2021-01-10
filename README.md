@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Bienvenidos a mi portafolio oficial de GitHub @Jorgemacias91](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
-(https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+# 🍕 Jorgemacias91 🍕
 
 <!--
 **Jorgemacias91/jorgemacias91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
