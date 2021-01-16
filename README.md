@@ -6,7 +6,7 @@
 <h3>
 Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente me certifico como Ingeniero Administrador Linux e Ingeniero Desarrollador FullStack 
 </h3>
-<a href="https://jorgemacias91.github.io/Notas_App/"><h3>Aplicación de Actividades</h3></a>
+<a href="https://jorgemacias91.github.io/Notas_App/">Aplicación de Actividades</a>
 
 
 
