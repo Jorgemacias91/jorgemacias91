@@ -7,7 +7,7 @@
 Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente me certifico como Ingeniero Administrador Linux e Ingeniero Desarrollador FullStack 
 </h3>
 <h3><strong>PROYECTOS</strong></h3>
-
+<br/>
 <h4>:heavy_check_mark:<a href="https://jorgemacias91.github.io/Notas_App/" target="_blank"> Aplicación de Actividades </a> :tada:</4>
 <p>Este aplicativo permite crear una lista de actividades y categorizar las tareas dependiendo de la complejidad que tenga. <strong>Nota: este proyecto se puede visualizar al 100% en el GitHub Pages.</strong></p>
 <br/>
