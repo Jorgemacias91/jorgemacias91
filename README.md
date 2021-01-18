@@ -60,6 +60,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jorgemacias91&-show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgemacias91&langs_count=5&theme=tokyonight)]()
+
 
 
 <!--
