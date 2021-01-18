@@ -8,6 +8,7 @@ Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente
 </h3>
 <h3><strong>PROYECTOS</strong></h3>
 <p>:heavy_check_mark:<a href="https://jorgemacias91.github.io/Notas_App/" target="_blank"> Aplicación de Actividades </a> :tada:</p>
+<p>:heavy_check_mark:<a href="https://jorgemacias91.github.io/climas_app" target="_blank"> Aplicación de Climas</a> :tada:</p>
 
 
 
