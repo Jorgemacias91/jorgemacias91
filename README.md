@@ -17,8 +17,8 @@ Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente
 <h4>:heavy_check_mark:<a href="https://jorgemacias91.github.io/climas_app" target="_blank"> Aplicación de Climas</a> :tada:</h4>
 <p>Este aplicativo permite visualizar la temperatura, ubicaciòn en latitud y longitud, de todos los paises del mundo. <strong>Nota: este proyecto NO se puede visualizar al 100% en el GitHub Pages, dado que la Apy Key es reservada, para su funcionamiento debe insertar una api key de <a href="https://openweathermap.org/api">openweather</a> , es solo crear su cuenta y podrás tener tu Api Key.</strong></p>
 
-<h4>:heavy_check_mark:<a href="https://jorgemacias91.github.io/climas_app" target="_blank"> Aplicación de Peliculas</a> :tada:</h4>
-<p>Este aplicativo permite visualizar la temperatura, ubicaciòn en latitud y longitud, de todos los paises del mundo. <strong>Nota: este proyecto NO se puede visualizar al 100% en el GitHub Pages, dado que la Apy Key es reservada, para su funcionamiento debe insertar una api key de <a href="https://openweathermap.org/api">openweather</a> , es solo crear su cuenta y podrás tener tu Api Key.</strong></p>
+<h4>:heavy_check_mark:<a href="https://jorgemacias91.github.io/filmes_app/" target="_blank"> Aplicación de Peliculas</a> :tada:</h4>
+<p>Este aplicativo permite visualizar las diez primeras peliculas de una api donde podrá conocer algunas noticias de su pelicula favorita como el año de lanzamiento, actores, y todo lo relacionado a la pelicula seleccionada. <strong>Nota: este proyecto NO se puede visualizar al 100% en el GitHub Pages, dado que la Apy Key es reservada, para su funcionamiento debe insertar una api key de <a href="http://www.omdbapi.com/">OMDB</a> , es solo crear su cuenta y podrás tener tu Api Key.</strong></p>
 
 -------------------------------------------------------------------------------------------------------------------------------
 <div>
