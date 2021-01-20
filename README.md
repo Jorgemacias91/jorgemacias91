@@ -17,6 +17,9 @@ Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente
 <h4>:heavy_check_mark:<a href="https://jorgemacias91.github.io/climas_app" target="_blank"> Aplicación de Climas</a> :tada:</h4>
 <p>Este aplicativo permite visualizar la temperatura, ubicaciòn en latitud y longitud, de todos los paises del mundo. <strong>Nota: este proyecto NO se puede visualizar al 100% en el GitHub Pages, dado que la Apy Key es reservada, para su funcionamiento debe insertar una api key de <a href="https://openweathermap.org/api">openweather</a> , es solo crear su cuenta y podrás tener tu Api Key.</strong></p>
 
+<h4>:heavy_check_mark:<a href="https://jorgemacias91.github.io/climas_app" target="_blank"> Aplicación de Peliculas</a> :tada:</h4>
+<p>Este aplicativo permite visualizar la temperatura, ubicaciòn en latitud y longitud, de todos los paises del mundo. <strong>Nota: este proyecto NO se puede visualizar al 100% en el GitHub Pages, dado que la Apy Key es reservada, para su funcionamiento debe insertar una api key de <a href="https://openweathermap.org/api">openweather</a> , es solo crear su cuenta y podrás tener tu Api Key.</strong></p>
+
 -------------------------------------------------------------------------------------------------------------------------------
 <div>
 <h3>Lenguajes y Herramientas</h3>
