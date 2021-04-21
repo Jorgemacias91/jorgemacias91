@@ -24,6 +24,12 @@ Soy ingeniero Electrónico egresado de la Universidad del Magdalena, actualmente
 <h4>:heavy_check_mark:<a href="http://104.236.67.205/" target="_blank"> Demo Login</a> :tada:</h4>
 <p>Este aplicativo permite a un usuario registrarse, para luego poder accder a su cuenta pot medio de un login, cuenta con la posibilidad de editar su perfil y eliminarlo si asì lo desea</p>
 
+<h4>:heavy_check_mark:<a href="https://proyectofinal-floflor.vercel.app/" target="_blank"> Ecommerce que expone el talento de los artistas</a> :tada:</h4>
+<p>Este proyecto abarca el proceso de un ecommerce completo donde los usuarios pueden ver los productos sin loguearse y poder agregar al carrito y recuperar la información una vez logueados, tambien existe el rol del artista que puede exponer sus artes y el rol del administrador que podrá modelar todo el contenido del sitio, tambien cuenta con la posibilidad de que el artista pueda solicitar una subasta al administrador, para ofertar uno de sus mejores cuadros, aplicación netamente responsiva y funcional para el crecimiento de los pequeños grandes artistas</p>
+
+
+
+
 
 
 
